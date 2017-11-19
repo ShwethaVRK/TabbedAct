@@ -17,7 +17,7 @@ allprojects {
         jcenter()
         flatDir {
             // Location of your package's `libs` directory containing `*.aar` files.
-            dirs '/home/robin/Desktop/android_projects/TabbedAct/app/libs'
+            dirs 'C:\\Users\\Shwetha V\\Documents\\GitHub\\TabbedAct\\app\\libs'
         }
     }
 }

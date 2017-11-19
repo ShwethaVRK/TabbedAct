@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MyScript_ATK-GeometryWidget-android-widget:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/1d01259aab06d5b8d0b9d10fbc76e4d9f9de370f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/1d01259aab06d5b8d0b9d10fbc76e4d9f9de370f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
